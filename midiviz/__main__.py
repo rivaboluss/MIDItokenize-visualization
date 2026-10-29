@@ -22,14 +22,14 @@ def render(path: str, outdir: str) -> None:
         counts.append((name, len(tokens)))
         if item["fields"]:
             svg.table(
-                f"MidiTok {name}",
+                name,
                 item["fields"],
                 [[str(cell) for cell in row] for row in tokens],
                 out / f"{name.lower()}.svg",
             )
         else:
             svg.token_strip(
-                f"MidiTok {name}",
+                name,
                 [str(tok) for tok in tokens],
                 out / f"{name.lower()}.svg",
             )
