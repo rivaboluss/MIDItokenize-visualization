@@ -1,4 +1,7 @@
-"""python -m midiviz score.mid -o outdir"""
+"""python -m midiviz score.mid -o outdir
+
+Every token string is returned by MidiTok. This program does not rename them.
+"""
 
 from __future__ import annotations
 
@@ -6,44 +9,30 @@ import argparse
 from pathlib import Path
 
 from . import svg
-from .tokenize import abc_body, compound, load_midi, midi_like, octuple, remi, tsd
+from .official import tokenize
 
 
 def render(path: str, outdir: str) -> None:
-    score = load_midi(path)
     out = Path(outdir)
     out.mkdir(parents=True, exist_ok=True)
-    schemes = {
-        "midi_like": midi_like(score),
-        "remi": remi(score),
-        "tsd": tsd(score),
-    }
-    svg.piano_roll(score, out / "pianoroll.svg")
-    for name, tokens in schemes.items():
-        svg.token_strip(name, tokens, out / f"{name}.svg")
-    svg.table(
-        "Compound word: one row is one model step",
-        ["family", "bar·position", "notes"],
-        compound(score),
-        out / "compound.svg",
-    )
-    svg.table(
-        "Octuple: one row is one note",
-        ["meter", "tempo", "bar", "position", "program", "pitch", "duration", "velocity"],
-        octuple(score),
-        out / "octuple.svg",
-    )
-    (out / "abc.txt").write_text(
-        f"M:4/4\nL:1/8\nQ:1/4={int(round(score.bpm))}\nK:C\n{abc_body(score)}\n",
-        encoding="utf-8",
-    )
-    counts = [
-        ("MIDI-like", len(schemes["midi_like"])),
-        ("REMI", len(schemes["remi"])),
-        ("TSD", len(schemes["tsd"])),
-        ("Compound word", len(compound(score))),
-        ("Octuple", len(octuple(score))),
-    ]
+    schemes = tokenize(path)
+    counts = []
+    for name, item in schemes.items():
+        tokens = item["tokens"]
+        counts.append((name, len(tokens)))
+        if item["fields"]:
+            svg.table(
+                f"MidiTok {name}",
+                item["fields"],
+                [[str(cell) for cell in row] for row in tokens],
+                out / f"{name.lower()}.svg",
+            )
+        else:
+            svg.token_strip(
+                f"MidiTok {name}",
+                [str(tok) for tok in tokens],
+                out / f"{name.lower()}.svg",
+            )
     svg.lengths(counts, out / "lengths.svg")
     _html(out, Path(path).name, counts)
     print(f"wrote {out}")
@@ -53,22 +42,19 @@ def render(path: str, outdir: str) -> None:
 
 def _html(out: Path, source: str, counts: list[tuple[str, int]]) -> None:
     parts = [
-        "<!DOCTYPE html><meta charset='utf-8'><title>MIDI tokenization</title>",
-        "<body style='font-family:Times New Roman,serif;max-width:1000px;margin:24px'>",
-        f"<h1>Tokenization of {source}</h1>",
-        "<p>Class 1 of the survey: the same MIDI file written as MIDI-like, REMI, TSD, compound word, and Octuple. ABC is a lossy notation string, not an event vocabulary.</p>",
-        "<img src='pianoroll.svg' style='max-width:100%'>",
+        "<!DOCTYPE html><meta charset='utf-8'><title>MidiTok output</title>",
+        "<body style='font-family:Times New Roman,serif;max-width:1100px;margin:24px'>",
+        f"<h1>MidiTok tokens of {source}</h1>",
+        "<p>Token text is MidiTok's. Config: use_chords, use_tempos, use_programs, and use_time_signatures are true. Octuple also sets max_bar_embedding to 8, which that class requires.</p>",
     ]
-    for name in ("midi_like", "remi", "tsd", "compound", "octuple", "lengths"):
+    for name in ("midilike", "remi", "tsd", "cpword", "octuple", "lengths"):
         parts.append(f"<h2>{name}</h2><img src='{name}.svg' style='max-width:100%'>")
-    abc = (out / "abc.txt").read_text(encoding="utf-8")
-    parts.append("<h2>ABC</h2><pre>" + abc.replace("<", "&lt;") + "</pre>")
     parts.append("<ul>" + "".join(f"<li>{n}: {v}</li>" for n, v in counts) + "</ul></body>")
     (out / "index.html").write_text("\n".join(parts), encoding="utf-8")
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Visualize MIDI as several symbolic tokenizations.")
+    parser = argparse.ArgumentParser(description="Visualize MidiTok's own tokens for a MIDI file.")
     parser.add_argument("midi")
     parser.add_argument("-o", "--outdir", default="out")
     args = parser.parse_args()

@@ -1,237 +1,381 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="792" viewBox="0 0 760 792">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="876" viewBox="0 0 1180 876">
 <rect width="100%" height="100%" fill="#ffffff"/>
 <text x="8.0" y="16.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(a)</text>
-<text x="36.0" y="16.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">MIDI-like</text>
-<rect x="8.0" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="13.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·80</text>
-<rect x="58.2" y="26.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="63.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·C4</text>
-<rect x="102.2" y="26.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="107.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·E4</text>
-<rect x="146.2" y="26.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="151.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
-<rect x="227.4" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="232.4" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·C4</text>
-<rect x="277.6" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="282.6" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·E4</text>
-<rect x="327.8" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="332.8" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
-<rect x="378.0" y="26.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="383.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·G4</text>
-<rect x="422.0" y="26.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="427.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
-<rect x="503.2" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="508.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·G4</text>
-<rect x="553.4" y="26.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="558.4" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·A4</text>
-<rect x="597.4" y="26.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="602.4" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·250ms</text>
-<rect x="678.6" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="683.6" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·A4</text>
-<rect x="8.0" y="48.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="13.0" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·B4</text>
-<rect x="52.0" y="48.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="57.0" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·250ms</text>
-<rect x="133.2" y="48.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="138.2" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·B4</text>
-<rect x="183.4" y="48.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="188.4" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
-<rect x="264.6" y="48.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="269.6" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·C5</text>
-<rect x="308.6" y="48.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="313.6" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
-<rect x="389.8" y="48.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="394.8" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·C5</text>
-<text x="8.0" y="82.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(b)</text>
-<text x="36.0" y="82.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">REMI</text>
-<rect x="8.0" y="92.0" width="28.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="13.0" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar</text>
-<rect x="39.6" y="92.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="44.6" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo·120</text>
-<rect x="108.4" y="92.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="113.4" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·0</text>
-<rect x="152.4" y="92.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="157.4" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·80</text>
-<rect x="202.6" y="92.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="207.6" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·C4</text>
-<rect x="265.2" y="92.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="270.2" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
-<rect x="321.6" y="92.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="326.6" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·80</text>
-<rect x="371.8" y="92.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="376.8" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·E4</text>
-<rect x="434.4" y="92.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="439.4" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
-<rect x="490.8" y="92.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="495.8" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·4</text>
-<rect x="534.8" y="92.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="539.8" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
-<rect x="585.0" y="92.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="590.0" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·G4</text>
-<rect x="647.6" y="92.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="652.6" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
-<rect x="704.0" y="92.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="709.0" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·8</text>
-<rect x="8.0" y="114.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="13.0" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
-<rect x="58.2" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="63.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·A4</text>
-<rect x="120.8" y="114.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="125.8" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/8</text>
-<rect x="177.2" y="114.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="182.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·10</text>
-<rect x="227.4" y="114.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="232.4" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
-<rect x="277.6" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="282.6" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·B4</text>
-<rect x="340.2" y="114.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="345.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/8</text>
-<rect x="396.6" y="114.0" width="28.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="401.6" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar</text>
-<rect x="428.2" y="114.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="433.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·0</text>
-<rect x="472.2" y="114.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="477.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
-<rect x="522.4" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="527.4" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·C5</text>
-<rect x="585.0" y="114.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="590.0" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
-<text x="8.0" y="148.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(c)</text>
-<text x="36.0" y="148.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">复合词</text>
-<text x="8.0" y="170.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">族</text>
-<text x="70.0" y="170.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">小节·拍位</text>
-<text x="160.0" y="170.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音</text>
-<rect x="8.0" y="174.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="187.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
-<text x="74.0" y="187.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1·0</text>
-<text x="164.0" y="187.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C4+E4</text>
-<rect x="8.0" y="194.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="207.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
-<text x="74.0" y="207.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
-<text x="164.0" y="207.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C4</text>
-<rect x="8.0" y="214.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="227.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
-<text x="74.0" y="227.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
-<text x="164.0" y="227.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">E4</text>
-<rect x="8.0" y="234.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="247.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
-<text x="74.0" y="247.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1·4</text>
-<text x="164.0" y="247.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">G4</text>
-<rect x="8.0" y="254.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="267.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
-<text x="74.0" y="267.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
-<text x="164.0" y="267.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">G4</text>
-<rect x="8.0" y="274.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="287.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
-<text x="74.0" y="287.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1·8</text>
-<text x="164.0" y="287.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">A4</text>
-<rect x="8.0" y="294.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="307.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
-<text x="74.0" y="307.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
-<text x="164.0" y="307.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">A4</text>
-<rect x="8.0" y="314.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="327.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
-<text x="74.0" y="327.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1·10</text>
-<text x="164.0" y="327.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">B4</text>
-<rect x="8.0" y="334.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="347.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
-<text x="74.0" y="347.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
-<text x="164.0" y="347.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">B4</text>
-<rect x="8.0" y="354.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="367.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
-<text x="74.0" y="367.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">2·0</text>
-<text x="164.0" y="367.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C5</text>
-<rect x="8.0" y="374.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="387.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
-<text x="74.0" y="387.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
-<text x="164.0" y="387.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C5</text>
-<text x="8.0" y="402.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(d)</text>
-<text x="36.0" y="402.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Octuple</text>
-<text x="8.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">拍号</text>
-<text x="94.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">速度</text>
-<text x="180.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">小节</text>
-<text x="266.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">拍位</text>
-<text x="352.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">乐器</text>
-<text x="438.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音高</text>
-<text x="524.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">时值</text>
-<text x="610.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">力度</text>
-<rect x="8.0" y="428.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
-<text x="98.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
-<text x="184.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
-<text x="270.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
-<text x="356.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
-<text x="442.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C4</text>
-<text x="528.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/4</text>
-<text x="614.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">80</text>
-<rect x="8.0" y="448.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
-<text x="98.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
-<text x="184.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
-<text x="270.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
-<text x="356.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
-<text x="442.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">E4</text>
-<text x="528.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/4</text>
-<text x="614.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">80</text>
-<rect x="8.0" y="468.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
-<text x="98.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
-<text x="184.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
-<text x="270.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4</text>
-<text x="356.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
-<text x="442.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">G4</text>
-<text x="528.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/4</text>
-<text x="614.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">90</text>
-<rect x="8.0" y="488.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
-<text x="98.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
-<text x="184.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
-<text x="270.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">8</text>
-<text x="356.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
-<text x="442.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">A4</text>
-<text x="528.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/8</text>
-<text x="614.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">90</text>
-<rect x="8.0" y="508.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
-<text x="98.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
-<text x="184.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
-<text x="270.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">10</text>
-<text x="356.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
-<text x="442.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">B4</text>
-<text x="528.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/8</text>
-<text x="614.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">90</text>
-<rect x="8.0" y="528.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
-<text x="12.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
-<text x="98.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
-<text x="184.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">2</text>
-<text x="270.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
-<text x="356.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
-<text x="442.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C5</text>
-<text x="528.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/4</text>
-<text x="614.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">90</text>
-<text x="8.0" y="556.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(e)</text>
-<text x="36.0" y="556.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">ABC</text>
-<text x="8.0" y="582.0" fill="#4a4a4a" font-size="12" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">M:4/4  L:1/8  Q:1/4=120  K:C</text>
-<text x="8.0" y="602.0" fill="#1a1a1a" font-size="13" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">[CE]2 G2 AB z2 | c2 z6 |</text>
-<text x="8.0" y="618.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(f)</text>
-<text x="36.0" y="618.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">序列步数</text>
-<line x1="88.0" y1="636.0" x2="88.0" y2="746.0" stroke="#1a1a1a" stroke-width="1"/>
-<line x1="88.0" y1="746.0" x2="608.0" y2="746.0" stroke="#1a1a1a" stroke-width="1"/>
-<line x1="208.0" y1="636.0" x2="208.0" y2="746.0" stroke="#9a9a9a" stroke-width="0.8" stroke-dasharray="3 2"/>
-<text x="80.0" y="652.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">MIDI-like</text>
-<rect x="88.0" y="640.0" width="400.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
-<text x="492.0" y="652.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">20</text>
-<text x="80.0" y="674.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">REMI</text>
-<rect x="88.0" y="662.0" width="520.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
-<text x="612.0" y="674.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">26</text>
-<text x="80.0" y="696.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">TSD</text>
-<rect x="88.0" y="684.0" width="440.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
-<text x="532.0" y="696.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">22</text>
-<text x="80.0" y="718.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">复合词</text>
-<rect x="88.0" y="706.0" width="220.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
-<text x="312.0" y="718.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">11</text>
-<text x="80.0" y="740.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">Octuple</text>
-<rect x="88.0" y="728.0" width="120.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
-<text x="212.0" y="740.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">6</text>
-<text x="348.0" y="774.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="middle" font-family="Times New Roman, Times, Microsoft YaHei, serif">步数</text>
+<text x="36.0" y="16.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">MidiTok MIDILike</text>
+<rect x="8.0" y="26.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="89.2" y="26.0" width="84.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="94.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<rect x="176.6" y="26.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="181.6" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="245.4" y="26.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="250.4" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOn_60</text>
+<rect x="314.2" y="26.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="319.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_79</text>
+<rect x="395.4" y="26.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="400.4" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="464.2" y="26.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="469.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOn_64</text>
+<rect x="533.0" y="26.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="538.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_79</text>
+<rect x="614.2" y="26.0" width="103.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="619.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeShift_1.0.8</text>
+<rect x="720.2" y="26.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="725.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="789.0" y="26.0" width="72.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="794.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOff_60</text>
+<rect x="864.0" y="26.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="869.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="932.8" y="26.0" width="72.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="937.8" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOff_64</text>
+<rect x="1007.8" y="26.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="1012.8" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="1076.6" y="26.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="1081.6" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOn_67</text>
+<rect x="8.0" y="48.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<rect x="89.2" y="48.0" width="103.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="94.2" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeShift_1.0.8</text>
+<rect x="195.2" y="48.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="200.2" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="264.0" y="48.0" width="72.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="269.0" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOff_67</text>
+<rect x="339.0" y="48.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="344.0" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="407.8" y="48.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="412.8" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOn_69</text>
+<rect x="476.6" y="48.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="481.6" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<rect x="557.8" y="48.0" width="103.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="562.8" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeShift_0.4.8</text>
+<rect x="663.8" y="48.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="668.8" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="732.6" y="48.0" width="72.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="737.6" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOff_69</text>
+<rect x="807.6" y="48.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="812.6" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="876.4" y="48.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="881.4" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOn_71</text>
+<rect x="945.2" y="48.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="950.2" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<rect x="1026.4" y="48.0" width="103.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="1031.4" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeShift_0.4.8</text>
+<rect x="8.0" y="70.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="83.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="76.8" y="70.0" width="72.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="81.8" y="83.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOff_71</text>
+<rect x="151.8" y="70.0" width="103.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="156.8" y="83.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeShift_1.0.8</text>
+<rect x="257.8" y="70.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="262.8" y="83.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="326.6" y="70.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="331.6" y="83.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOn_72</text>
+<rect x="395.4" y="70.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="400.4" y="83.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<rect x="476.6" y="70.0" width="103.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="481.6" y="83.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeShift_1.0.8</text>
+<rect x="582.6" y="70.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="587.6" y="83.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="651.4" y="70.0" width="72.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="656.4" y="83.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">NoteOff_72</text>
+<text x="8.0" y="104.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(b)</text>
+<text x="36.0" y="104.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">MidiTok REMI</text>
+<rect x="8.0" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_None</text>
+<rect x="70.6" y="114.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="75.6" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="151.8" y="114.0" width="72.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="156.8" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_0</text>
+<rect x="226.8" y="114.0" width="84.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="231.8" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<rect x="314.2" y="114.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="319.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="383.0" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="388.0" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_60</text>
+<rect x="445.6" y="114.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="450.6" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_79</text>
+<rect x="526.8" y="114.0" width="96.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="531.8" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<rect x="626.6" y="114.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="631.6" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="695.4" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="700.4" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_64</text>
+<rect x="758.0" y="114.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="763.0" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_79</text>
+<rect x="839.2" y="114.0" width="96.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="844.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<rect x="939.0" y="114.0" width="72.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="944.0" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_8</text>
+<rect x="1014.0" y="114.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="1019.0" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="1082.8" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="1087.8" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_67</text>
+<rect x="8.0" y="136.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<rect x="89.2" y="136.0" width="96.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="94.2" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<rect x="189.0" y="136.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="194.0" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_16</text>
+<rect x="270.2" y="136.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="275.2" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="339.0" y="136.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="344.0" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_69</text>
+<rect x="401.6" y="136.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="406.6" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<rect x="482.8" y="136.0" width="96.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="487.8" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_0.4.8</text>
+<rect x="582.6" y="136.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="587.6" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_20</text>
+<rect x="663.8" y="136.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="668.8" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="732.6" y="136.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="737.6" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_71</text>
+<rect x="795.2" y="136.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="800.2" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<rect x="876.4" y="136.0" width="96.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="881.4" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_0.4.8</text>
+<rect x="976.2" y="136.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="981.2" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_None</text>
+<rect x="1038.8" y="136.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="1043.8" y="149.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="8.0" y="158.0" width="72.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="171.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_0</text>
+<rect x="83.0" y="158.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="88.0" y="171.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<rect x="151.8" y="158.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="156.8" y="171.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_72</text>
+<rect x="214.4" y="158.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="219.4" y="171.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<rect x="295.6" y="158.0" width="96.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="300.6" y="171.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<text x="8.0" y="192.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(c)</text>
+<text x="36.0" y="192.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">MidiTok CPWord</text>
+<text x="8.0" y="214.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family</text>
+<text x="126.0" y="214.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position/Bar</text>
+<text x="244.0" y="214.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch</text>
+<text x="362.0" y="214.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity</text>
+<text x="480.0" y="214.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration</text>
+<text x="598.0" y="214.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program</text>
+<text x="716.0" y="214.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Chord</text>
+<text x="834.0" y="214.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo</text>
+<text x="952.0" y="214.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig</text>
+<rect x="8.0" y="218.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="231.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Metric</text>
+<text x="128.0" y="231.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_None</text>
+<text x="246.0" y="231.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="364.0" y="231.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="482.0" y="231.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="600.0" y="231.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="718.0" y="231.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="231.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="954.0" y="231.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="8.0" y="238.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="251.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Metric</text>
+<text x="128.0" y="251.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_0</text>
+<text x="246.0" y="251.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="364.0" y="251.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="482.0" y="251.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="600.0" y="251.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="718.0" y="251.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="251.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="954.0" y="251.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="258.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="271.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Note</text>
+<text x="128.0" y="271.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="246.0" y="271.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_60</text>
+<text x="364.0" y="271.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_79</text>
+<text x="482.0" y="271.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<text x="600.0" y="271.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="718.0" y="271.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="271.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="954.0" y="271.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="278.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="291.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Note</text>
+<text x="128.0" y="291.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="246.0" y="291.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_64</text>
+<text x="364.0" y="291.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_79</text>
+<text x="482.0" y="291.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<text x="600.0" y="291.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="718.0" y="291.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="291.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="954.0" y="291.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="298.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="311.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Metric</text>
+<text x="128.0" y="311.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_8</text>
+<text x="246.0" y="311.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="364.0" y="311.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="482.0" y="311.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="600.0" y="311.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="718.0" y="311.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="311.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="954.0" y="311.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="318.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="331.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Note</text>
+<text x="128.0" y="331.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="246.0" y="331.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_67</text>
+<text x="364.0" y="331.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<text x="482.0" y="331.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<text x="600.0" y="331.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="718.0" y="331.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="331.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="954.0" y="331.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="338.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="351.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Metric</text>
+<text x="128.0" y="351.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_16</text>
+<text x="246.0" y="351.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="364.0" y="351.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="482.0" y="351.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="600.0" y="351.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="718.0" y="351.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="351.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="954.0" y="351.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="358.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="371.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Note</text>
+<text x="128.0" y="371.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="246.0" y="371.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_69</text>
+<text x="364.0" y="371.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<text x="482.0" y="371.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_0.4.8</text>
+<text x="600.0" y="371.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="718.0" y="371.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="371.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="954.0" y="371.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="378.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="391.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Metric</text>
+<text x="128.0" y="391.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_20</text>
+<text x="246.0" y="391.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="364.0" y="391.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="482.0" y="391.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="600.0" y="391.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="718.0" y="391.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="391.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="954.0" y="391.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="398.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="411.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Note</text>
+<text x="128.0" y="411.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="246.0" y="411.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_71</text>
+<text x="364.0" y="411.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<text x="482.0" y="411.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_0.4.8</text>
+<text x="600.0" y="411.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="718.0" y="411.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="411.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="954.0" y="411.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="418.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="431.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Metric</text>
+<text x="128.0" y="431.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_None</text>
+<text x="246.0" y="431.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="364.0" y="431.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="482.0" y="431.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="600.0" y="431.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="718.0" y="431.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="431.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="954.0" y="431.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="8.0" y="438.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="451.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Metric</text>
+<text x="128.0" y="451.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_0</text>
+<text x="246.0" y="451.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="364.0" y="451.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="482.0" y="451.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="600.0" y="451.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="718.0" y="451.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="451.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="954.0" y="451.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<rect x="8.0" y="458.0" width="1058.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="471.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Family_Note</text>
+<text x="128.0" y="471.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="246.0" y="471.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_72</text>
+<text x="364.0" y="471.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<text x="482.0" y="471.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<text x="600.0" y="471.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="718.0" y="471.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="836.0" y="471.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="954.0" y="471.0" fill="#1a1a1a" font-size="8" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Ignore_None</text>
+<text x="8.0" y="486.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(d)</text>
+<text x="36.0" y="486.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">MidiTok Octuple</text>
+<text x="8.0" y="508.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch</text>
+<text x="138.0" y="508.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position</text>
+<text x="268.0" y="508.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar</text>
+<text x="398.0" y="508.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity</text>
+<text x="528.0" y="508.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration</text>
+<text x="658.0" y="508.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program</text>
+<text x="788.0" y="508.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo</text>
+<text x="918.0" y="508.0" fill="#4a4a4a" font-size="9" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig</text>
+<rect x="8.0" y="512.0" width="1036.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="525.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_60</text>
+<text x="140.0" y="525.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_0</text>
+<text x="270.0" y="525.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_0</text>
+<text x="400.0" y="525.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_79</text>
+<text x="530.0" y="525.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<text x="660.0" y="525.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="790.0" y="525.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="920.0" y="525.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="8.0" y="532.0" width="1036.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="545.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_64</text>
+<text x="140.0" y="545.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_0</text>
+<text x="270.0" y="545.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_0</text>
+<text x="400.0" y="545.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_79</text>
+<text x="530.0" y="545.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<text x="660.0" y="545.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="790.0" y="545.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="920.0" y="545.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="8.0" y="552.0" width="1036.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="565.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_67</text>
+<text x="140.0" y="565.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_8</text>
+<text x="270.0" y="565.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_0</text>
+<text x="400.0" y="565.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<text x="530.0" y="565.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<text x="660.0" y="565.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="790.0" y="565.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="920.0" y="565.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="8.0" y="572.0" width="1036.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="585.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_69</text>
+<text x="140.0" y="585.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_16</text>
+<text x="270.0" y="585.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_0</text>
+<text x="400.0" y="585.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<text x="530.0" y="585.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_0.4.8</text>
+<text x="660.0" y="585.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="790.0" y="585.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="920.0" y="585.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="8.0" y="592.0" width="1036.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="605.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_71</text>
+<text x="140.0" y="605.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_20</text>
+<text x="270.0" y="605.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_0</text>
+<text x="400.0" y="605.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<text x="530.0" y="605.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_0.4.8</text>
+<text x="660.0" y="605.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="790.0" y="605.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="920.0" y="605.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<rect x="8.0" y="612.0" width="1036.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="10.0" y="625.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch_72</text>
+<text x="140.0" y="625.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Position_0</text>
+<text x="270.0" y="625.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar_1</text>
+<text x="400.0" y="625.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Velocity_91</text>
+<text x="530.0" y="625.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Duration_1.0.8</text>
+<text x="660.0" y="625.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Program_0</text>
+<text x="790.0" y="625.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo_121.29</text>
+<text x="920.0" y="625.0" fill="#1a1a1a" font-size="9" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TimeSig_4/4</text>
+<text x="8.0" y="640.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(e)</text>
+<text x="36.0" y="640.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">ABC</text>
+<text x="8.0" y="666.0" fill="#4a4a4a" font-size="12" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">M:4/4  L:1/8  Q:1/4=120  K:C</text>
+<text x="8.0" y="686.0" fill="#1a1a1a" font-size="13" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">[CE]2 G2 AB z2 | c2 z6 |</text>
+<text x="8.0" y="702.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(f)</text>
+<text x="36.0" y="702.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">序列步数</text>
+<line x1="100.0" y1="720.0" x2="100.0" y2="830.0" stroke="#1a1a1a" stroke-width="1"/>
+<line x1="100.0" y1="830.0" x2="620.0" y2="830.0" stroke="#1a1a1a" stroke-width="1"/>
+<line x1="182.1" y1="720.0" x2="182.1" y2="830.0" stroke="#9a9a9a" stroke-width="0.8" stroke-dasharray="3 2"/>
+<text x="92.0" y="736.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">MIDILike</text>
+<rect x="100.0" y="724.0" width="520.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="624.0" y="736.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">38</text>
+<text x="92.0" y="758.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">REMI</text>
+<rect x="100.0" y="746.0" width="465.3" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="569.3" y="758.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">34</text>
+<text x="92.0" y="780.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">TSD</text>
+<rect x="100.0" y="768.0" width="410.5" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="514.5" y="780.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">30</text>
+<text x="92.0" y="802.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">CPWord</text>
+<rect x="100.0" y="790.0" width="177.9" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="281.9" y="802.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">13</text>
+<text x="92.0" y="824.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">Octuple</text>
+<rect x="100.0" y="812.0" width="82.1" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="186.1" y="824.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">6</text>
+<text x="360.0" y="858.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="middle" font-family="Times New Roman, Times, Microsoft YaHei, serif">步数</text>
 </svg>

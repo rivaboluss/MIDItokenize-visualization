@@ -1,18 +1,11 @@
-<!DOCTYPE html><meta charset='utf-8'><title>MIDI tokenization</title>
-<body style='font-family:Times New Roman,serif;max-width:1000px;margin:24px'>
-<h1>Tokenization of excerpt.mid</h1>
-<p>Class 1 of the survey: the same MIDI file written as MIDI-like, REMI, TSD, compound word, and Octuple. ABC is a lossy notation string, not an event vocabulary.</p>
-<img src='pianoroll.svg' style='max-width:100%'>
-<h2>midi_like</h2><img src='midi_like.svg' style='max-width:100%'>
+<!DOCTYPE html><meta charset='utf-8'><title>MidiTok output</title>
+<body style='font-family:Times New Roman,serif;max-width:1100px;margin:24px'>
+<h1>MidiTok tokens of excerpt.mid</h1>
+<p>Token text is MidiTok's. Config: use_chords, use_tempos, use_programs, and use_time_signatures are true. Octuple also sets max_bar_embedding to 8, which that class requires.</p>
+<h2>midilike</h2><img src='midilike.svg' style='max-width:100%'>
 <h2>remi</h2><img src='remi.svg' style='max-width:100%'>
 <h2>tsd</h2><img src='tsd.svg' style='max-width:100%'>
-<h2>compound</h2><img src='compound.svg' style='max-width:100%'>
+<h2>cpword</h2><img src='cpword.svg' style='max-width:100%'>
 <h2>octuple</h2><img src='octuple.svg' style='max-width:100%'>
 <h2>lengths</h2><img src='lengths.svg' style='max-width:100%'>
-<h2>ABC</h2><pre>M:4/4
-L:1/8
-Q:1/4=120
-K:C
-[CE]2 G2 AB z2 | c2 z6 |
-</pre>
-<ul><li>MIDI-like: 20</li><li>REMI: 26</li><li>TSD: 22</li><li>Compound word: 11</li><li>Octuple: 6</li></ul></body>
+<ul><li>MIDILike: 38</li><li>REMI: 34</li><li>TSD: 30</li><li>CPWord: 13</li><li>Octuple: 6</li></ul></body>

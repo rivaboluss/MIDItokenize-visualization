@@ -1,1 +1,2 @@
+miditok>=3
 mido>=1.3.0

@@ -112,7 +112,7 @@ ChatMusician 把 ABC 用于民谣和传统曲，正文写旋律 [Yuan et al., 20
 
 ![音符级符号与序列步数](figures/fig2_layer1_tokens.svg)
 
-**图 3.** 图 1 写成第一类符号。(a) MIDI-like。(b) REMI。(c) 复合词，一行是模型的一步。(d) Octuple，一行是一个音符。(e) ABC，基本时值为八分音符。(f) 各方案的序列步数。虚线为音符数 6。MIDI-like、REMI 与 TSD 一步一个属性，步数多于 6；复合词与 Octuple 一步含多个属性，步数下降。数字只属于这段对齐在拍上的谱。同一段 MIDI 的这几种写法可由 [MIDItokenize-visualization](https://github.com/rivaboluss/MIDItokenize-visualization) 从文件画出。
+**图 3.** 图 1 的 MIDI 交给 MidiTok 后的原样 token，没有改写成音名。(a) MIDILike。(b) REMI。(c) CPWord，一行是一步，用不到的字段是 Ignore_None。(d) Octuple，一行是一个音符。(e) ABC 记谱，不是 MidiTok 的输出。(f) 各方案的 token 个数，虚线为音符数 6。配置打开了和弦、速度、乐器和拍号。
 
 3.5 适用模型
 

@@ -1,10 +1,8 @@
-"""Small SVG writer for token strips, tables, and a piano roll."""
+"""Small SVG writer. Token text is passed in and is not rewritten."""
 
 from __future__ import annotations
 
 from pathlib import Path
-
-from .tokenize import Note, Score, pitch_name
 
 INK = "#1a1a1a"
 MUTED = "#4a4a4a"
@@ -98,30 +96,3 @@ def lengths(pairs: list[tuple[str, int]], path: Path) -> None:
         svg.rect(140, y, int(480 * value / max_v), 16, NOTE)
         svg.text(148 + int(480 * value / max_v), y + 13, str(value), 11)
     svg.save(path)
-
-
-def piano_roll(score: Score, path: Path) -> None:
-    if not score.notes:
-        Svg(400, 40).save(path)
-        return
-    pitches = list(range(max(n.pitch for n in score.notes), min(n.pitch for n in score.notes) - 1, -1))
-    cell = score.ticks_per_16th
-    cols = max(_end(n, cell) for n in score.notes) or 1
-    col_w = 16 if cols < 48 else 10
-    row_h = 12
-    label_w = 36
-    svg = Svg(label_w + cols * col_w + 16, 28 + len(pitches) * row_h + 24)
-    svg.text(8, 16, "Piano roll, sixteenth-note columns", 12, MUTED)
-    top = 24
-    for i, pitch in enumerate(pitches):
-        svg.text(2, top + i * row_h + 10, pitch_name(pitch), 9, MUTED)
-    for note in score.notes:
-        row = pitches.index(note.pitch)
-        start = note.start_tick / cell
-        dur = max(note.end_tick - note.start_tick, cell) / cell
-        svg.rect(label_w + start * col_w, top + row * row_h + 1, max(2, dur * col_w - 1), row_h - 2, NOTE)
-    svg.save(path)
-
-
-def _end(note: Note, cell: int) -> int:
-    return int(round(note.end_tick / cell))
