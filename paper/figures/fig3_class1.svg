@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="792" viewBox="0 0 760 792">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="8.0" y="16.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(a)</text>
+<text x="36.0" y="16.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">MIDI-like</text>
+<rect x="8.0" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·80</text>
+<rect x="58.2" y="26.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="63.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·C4</text>
+<rect x="102.2" y="26.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="107.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·E4</text>
+<rect x="146.2" y="26.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="151.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
+<rect x="227.4" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="232.4" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·C4</text>
+<rect x="277.6" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="282.6" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·E4</text>
+<rect x="327.8" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="332.8" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="378.0" y="26.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="383.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·G4</text>
+<rect x="422.0" y="26.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="427.0" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
+<rect x="503.2" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="508.2" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·G4</text>
+<rect x="553.4" y="26.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="558.4" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·A4</text>
+<rect x="597.4" y="26.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="602.4" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·250ms</text>
+<rect x="678.6" y="26.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="683.6" y="39.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·A4</text>
+<rect x="8.0" y="48.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·B4</text>
+<rect x="52.0" y="48.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="57.0" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·250ms</text>
+<rect x="133.2" y="48.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="138.2" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·B4</text>
+<rect x="183.4" y="48.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="188.4" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
+<rect x="264.6" y="48.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="269.6" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·C5</text>
+<rect x="308.6" y="48.0" width="78.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="313.6" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
+<rect x="389.8" y="48.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="394.8" y="61.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·C5</text>
+<text x="8.0" y="82.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(b)</text>
+<text x="36.0" y="82.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">REMI</text>
+<rect x="8.0" y="92.0" width="28.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar</text>
+<rect x="39.6" y="92.0" width="65.8" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="44.6" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo·120</text>
+<rect x="108.4" y="92.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="113.4" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·0</text>
+<rect x="152.4" y="92.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="157.4" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·80</text>
+<rect x="202.6" y="92.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="207.6" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·C4</text>
+<rect x="265.2" y="92.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="270.2" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
+<rect x="321.6" y="92.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="326.6" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·80</text>
+<rect x="371.8" y="92.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="376.8" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·E4</text>
+<rect x="434.4" y="92.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="439.4" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
+<rect x="490.8" y="92.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="495.8" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·4</text>
+<rect x="534.8" y="92.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="539.8" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="585.0" y="92.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="590.0" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·G4</text>
+<rect x="647.6" y="92.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="652.6" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
+<rect x="704.0" y="92.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="709.0" y="105.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·8</text>
+<rect x="8.0" y="114.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="13.0" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="58.2" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="63.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·A4</text>
+<rect x="120.8" y="114.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="125.8" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/8</text>
+<rect x="177.2" y="114.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="182.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·10</text>
+<rect x="227.4" y="114.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="232.4" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="277.6" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="282.6" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·B4</text>
+<rect x="340.2" y="114.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="345.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/8</text>
+<rect x="396.6" y="114.0" width="28.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="401.6" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar</text>
+<rect x="428.2" y="114.0" width="41.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="433.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·0</text>
+<rect x="472.2" y="114.0" width="47.2" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="477.2" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="522.4" y="114.0" width="59.6" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="527.4" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·C5</text>
+<rect x="585.0" y="114.0" width="53.4" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="590.0" y="127.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
+<text x="8.0" y="148.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(c)</text>
+<text x="36.0" y="148.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">复合词</text>
+<text x="8.0" y="170.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">族</text>
+<text x="70.0" y="170.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">小节·拍位</text>
+<text x="160.0" y="170.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音</text>
+<rect x="8.0" y="174.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="187.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
+<text x="74.0" y="187.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1·0</text>
+<text x="164.0" y="187.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C4+E4</text>
+<rect x="8.0" y="194.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="207.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
+<text x="74.0" y="207.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
+<text x="164.0" y="207.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C4</text>
+<rect x="8.0" y="214.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="227.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
+<text x="74.0" y="227.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
+<text x="164.0" y="227.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">E4</text>
+<rect x="8.0" y="234.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="247.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
+<text x="74.0" y="247.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1·4</text>
+<text x="164.0" y="247.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">G4</text>
+<rect x="8.0" y="254.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="267.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
+<text x="74.0" y="267.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
+<text x="164.0" y="267.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">G4</text>
+<rect x="8.0" y="274.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="287.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
+<text x="74.0" y="287.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1·8</text>
+<text x="164.0" y="287.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">A4</text>
+<rect x="8.0" y="294.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="307.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
+<text x="74.0" y="307.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
+<text x="164.0" y="307.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">A4</text>
+<rect x="8.0" y="314.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="327.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
+<text x="74.0" y="327.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1·10</text>
+<text x="164.0" y="327.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">B4</text>
+<rect x="8.0" y="334.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="347.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
+<text x="74.0" y="347.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
+<text x="164.0" y="347.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">B4</text>
+<rect x="8.0" y="354.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="367.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">节拍</text>
+<text x="74.0" y="367.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">2·0</text>
+<text x="164.0" y="367.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C5</text>
+<rect x="8.0" y="374.0" width="740.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="387.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音符</text>
+<text x="74.0" y="387.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">—</text>
+<text x="164.0" y="387.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C5</text>
+<text x="8.0" y="402.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(d)</text>
+<text x="36.0" y="402.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Octuple</text>
+<text x="8.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">拍号</text>
+<text x="94.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">速度</text>
+<text x="180.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">小节</text>
+<text x="266.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">拍位</text>
+<text x="352.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">乐器</text>
+<text x="438.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">音高</text>
+<text x="524.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">时值</text>
+<text x="610.0" y="424.0" fill="#4a4a4a" font-size="10" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">力度</text>
+<rect x="8.0" y="428.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
+<text x="98.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
+<text x="184.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
+<text x="270.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
+<text x="356.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
+<text x="442.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C4</text>
+<text x="528.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/4</text>
+<text x="614.0" y="441.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">80</text>
+<rect x="8.0" y="448.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
+<text x="98.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
+<text x="184.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
+<text x="270.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
+<text x="356.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
+<text x="442.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">E4</text>
+<text x="528.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/4</text>
+<text x="614.0" y="461.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">80</text>
+<rect x="8.0" y="468.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
+<text x="98.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
+<text x="184.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
+<text x="270.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4</text>
+<text x="356.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
+<text x="442.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">G4</text>
+<text x="528.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/4</text>
+<text x="614.0" y="481.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">90</text>
+<rect x="8.0" y="488.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
+<text x="98.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
+<text x="184.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
+<text x="270.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">8</text>
+<text x="356.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
+<text x="442.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">A4</text>
+<text x="528.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/8</text>
+<text x="614.0" y="501.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">90</text>
+<rect x="8.0" y="508.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
+<text x="98.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
+<text x="184.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1</text>
+<text x="270.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">10</text>
+<text x="356.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
+<text x="442.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">B4</text>
+<text x="528.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/8</text>
+<text x="614.0" y="521.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">90</text>
+<rect x="8.0" y="528.0" width="680.0" height="18.0" rx="0" fill="#ffffff" stroke="#c8c8c8" stroke-width="0.8" opacity="1"/>
+<text x="12.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">4/4</text>
+<text x="98.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">120</text>
+<text x="184.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">2</text>
+<text x="270.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
+<text x="356.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">0</text>
+<text x="442.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">C5</text>
+<text x="528.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">1/4</text>
+<text x="614.0" y="541.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">90</text>
+<text x="8.0" y="556.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(e)</text>
+<text x="36.0" y="556.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">ABC</text>
+<text x="8.0" y="582.0" fill="#4a4a4a" font-size="12" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">M:4/4  L:1/8  Q:1/4=120  K:C</text>
+<text x="8.0" y="602.0" fill="#1a1a1a" font-size="13" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">[CE]2 G2 AB z2 | c2 z6 |</text>
+<text x="8.0" y="618.0" fill="#1a1a1a" font-size="12" font-weight="700" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">(f)</text>
+<text x="36.0" y="618.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">序列步数</text>
+<line x1="88.0" y1="636.0" x2="88.0" y2="746.0" stroke="#1a1a1a" stroke-width="1"/>
+<line x1="88.0" y1="746.0" x2="608.0" y2="746.0" stroke="#1a1a1a" stroke-width="1"/>
+<line x1="208.0" y1="636.0" x2="208.0" y2="746.0" stroke="#9a9a9a" stroke-width="0.8" stroke-dasharray="3 2"/>
+<text x="80.0" y="652.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">MIDI-like</text>
+<rect x="88.0" y="640.0" width="400.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="492.0" y="652.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">20</text>
+<text x="80.0" y="674.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">REMI</text>
+<rect x="88.0" y="662.0" width="520.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="612.0" y="674.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">26</text>
+<text x="80.0" y="696.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">TSD</text>
+<rect x="88.0" y="684.0" width="440.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="532.0" y="696.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">22</text>
+<text x="80.0" y="718.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">复合词</text>
+<rect x="88.0" y="706.0" width="220.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="312.0" y="718.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">11</text>
+<text x="80.0" y="740.0" fill="#4a4a4a" font-size="11" font-weight="400" text-anchor="end" font-family="Times New Roman, Times, Microsoft YaHei, serif">Octuple</text>
+<rect x="88.0" y="728.0" width="120.0" height="14.0" rx="0" fill="#1f4e79" stroke="none" stroke-width="1" opacity="1"/>
+<text x="212.0" y="740.0" fill="#1a1a1a" font-size="10" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">6</text>
+<text x="348.0" y="774.0" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="middle" font-family="Times New Roman, Times, Microsoft YaHei, serif">步数</text>
+</svg>

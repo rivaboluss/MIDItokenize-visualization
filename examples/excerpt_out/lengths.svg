@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="8" y="20" fill="#1a1a1a" font-size="14" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Sequence length</text>
+<text x="8" y="50" fill="#4a4a4a" font-size="12" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">MIDI-like</text>
+<rect x="140" y="36" width="369" height="16" fill="#1f4e79" stroke="none" stroke-width="1"/>
+<text x="517" y="49" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">20</text>
+<text x="8" y="76" fill="#4a4a4a" font-size="12" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">REMI</text>
+<rect x="140" y="62" width="480" height="16" fill="#1f4e79" stroke="none" stroke-width="1"/>
+<text x="628" y="75" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">26</text>
+<text x="8" y="102" fill="#4a4a4a" font-size="12" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">TSD</text>
+<rect x="140" y="88" width="406" height="16" fill="#1f4e79" stroke="none" stroke-width="1"/>
+<text x="554" y="101" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">22</text>
+<text x="8" y="128" fill="#4a4a4a" font-size="12" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Compound word</text>
+<rect x="140" y="114" width="203" height="16" fill="#1f4e79" stroke="none" stroke-width="1"/>
+<text x="351" y="127" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">11</text>
+<text x="8" y="154" fill="#4a4a4a" font-size="12" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Octuple</text>
+<rect x="140" y="140" width="110" height="16" fill="#1f4e79" stroke="none" stroke-width="1"/>
+<text x="258" y="153" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">6</text>
+</svg>

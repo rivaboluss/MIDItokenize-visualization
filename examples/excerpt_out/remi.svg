@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="88" viewBox="0 0 1000 88">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="8" y="20" fill="#1a1a1a" font-size="14" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">remi</text>
+<rect x="8" y="36" width="31.200000000000003" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="14" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar</text>
+<rect x="43.2" y="36" width="69.6" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="49.2" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Tempo·120</text>
+<rect x="116.8" y="36" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="122.8" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·0</text>
+<rect x="164.8" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="170.8" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·80</text>
+<rect x="219.20000000000002" y="36" width="63.2" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="225.20000000000002" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·C4</text>
+<rect x="286.40000000000003" y="36" width="56.800000000000004" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="292.40000000000003" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
+<rect x="347.20000000000005" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="353.20000000000005" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·80</text>
+<rect x="401.6" y="36" width="63.2" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="407.6" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·E4</text>
+<rect x="468.8" y="36" width="56.800000000000004" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="474.8" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
+<rect x="529.6" y="36" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="535.6" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·4</text>
+<rect x="577.6" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="583.6" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="632.0" y="36" width="63.2" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="638.0" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·G4</text>
+<rect x="699.2" y="36" width="56.800000000000004" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="705.2" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
+<rect x="760.0" y="36" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="766.0" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·8</text>
+<rect x="808.0" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="814.0" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="862.4" y="36" width="63.2" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="868.4" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·A4</text>
+<rect x="8" y="60" width="56.800000000000004" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="14" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/8</text>
+<rect x="68.80000000000001" y="60" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="74.80000000000001" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·10</text>
+<rect x="123.20000000000002" y="60" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="129.20000000000002" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="177.60000000000002" y="60" width="63.2" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="183.60000000000002" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·B4</text>
+<rect x="244.8" y="60" width="56.800000000000004" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="250.8" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/8</text>
+<rect x="305.6" y="60" width="31.200000000000003" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="311.6" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Bar</text>
+<rect x="340.8" y="60" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="346.8" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pos·0</text>
+<rect x="388.8" y="60" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="394.8" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="443.20000000000005" y="60" width="63.2" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="449.20000000000005" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Pitch·C5</text>
+<rect x="510.40000000000003" y="60" width="56.800000000000004" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="516.4000000000001" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Dur·1/4</text>
+</svg>

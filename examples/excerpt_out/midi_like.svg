@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="88" viewBox="0 0 1000 88">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="8" y="20" fill="#1a1a1a" font-size="14" font-weight="600" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">midi_like</text>
+<rect x="8" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="14" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·80</text>
+<rect x="62.400000000000006" y="36" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="68.4" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·C4</text>
+<rect x="110.4" y="36" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="116.4" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·E4</text>
+<rect x="158.4" y="36" width="82.4" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="164.4" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
+<rect x="244.8" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="250.8" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·C4</text>
+<rect x="299.20000000000005" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="305.20000000000005" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·E4</text>
+<rect x="353.6" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="359.6" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Vel·90</text>
+<rect x="408.0" y="36" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="414.0" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·G4</text>
+<rect x="456.0" y="36" width="82.4" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="462.0" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
+<rect x="542.4" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="548.4" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·G4</text>
+<rect x="596.8" y="36" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="602.8" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·A4</text>
+<rect x="644.8" y="36" width="82.4" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="650.8" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·250ms</text>
+<rect x="731.1999999999999" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="737.1999999999999" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·A4</text>
+<rect x="785.5999999999999" y="36" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="791.5999999999999" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·B4</text>
+<rect x="833.5999999999999" y="36" width="82.4" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="839.5999999999999" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·250ms</text>
+<rect x="919.9999999999999" y="36" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="925.9999999999999" y="50" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·B4</text>
+<rect x="8" y="60" width="82.4" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="14" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
+<rect x="94.4" y="60" width="44.0" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="100.4" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">On·C5</text>
+<rect x="142.4" y="60" width="82.4" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="148.4" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Shift·500ms</text>
+<rect x="228.8" y="60" width="50.400000000000006" height="20" fill="#f7f7f7" stroke="#c8c8c8" stroke-width="0.8"/>
+<text x="234.8" y="74" fill="#1a1a1a" font-size="11" font-weight="400" text-anchor="start" font-family="Times New Roman, Times, Microsoft YaHei, serif">Off·C5</text>
+</svg>
