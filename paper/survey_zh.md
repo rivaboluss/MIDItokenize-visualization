@@ -108,7 +108,7 @@ ChatMusician 把 ABC 用于民谣和传统曲，正文写旋律 [Yuan et al., 20
 
 音名、时值和方括号里的同时音展开后仍是音符级事件，留在本类。和弦名展开不成唯一的奏法。力度、毫秒和踏板默认不写。分词按子词切，一个 token 可以落在音符中间。文字和乐谱用同一个模型，因此chatmusic可以方便的使用纯文本大模型进行ABC记谱的符号音乐的生成，并覆盖和弦编配，音乐理解等多种下游任务，然而ABC记谱法仍然存在局限性，对于古典钢琴里的复杂织体、复音和力度， ABC记谱不能无损保留 MIDI 里的这些信息。
 
-和写成 MIDI 的同一批曲子比，ABC 用到的 token 更少。Yuan 等从训练集抽了 1000 首来数：ABC 交给 LLaMA 分词器，平均每首 288.21 个 token、每秒 5.16 个；转成 MIDI 后按 MIDI-like 计数，是每首 728.60 个 token、每秒 12.42 个，取整大约是每首 288 对 729。同一批再按 REMI 计数，是每首 753.41 个 token、每秒 12.84 个 [Yuan et al., 2024]。反复段用 `|:`、`:|` 只写一遍，字符串先短一截；LLaMA 再按子词切，一个 token 里可以有好几个字符，MIDI-like 和 REMI 则一步一个事件。图 3 记的是图 1 这段谱的事件步数，这组数字是 1000 首整曲的平均 token 数。
+和写成 MIDI 的同一批曲子比，ABC 用到的 token 更少。Yuan 等从训练集抽了 1000 首来数：ABC 交给 LLaMA 分词器，平均每首 288.21 个 token、每秒 5.16 个；转成 MIDI 后按 MIDI-like 计数，是每首 728.60 个 token、每秒 12.42 个，取整大约是每首 288 对 729。同一批再按 REMI 计数，是每首 753.41 个 token、每秒 12.84 个 [Yuan et al., 2024]。反复段用 `|:`、`:|` 只写一遍，字符串先短一截；LLaMA 再按子词切，一个 token 里可以有好几个字符，MIDI-like 和 REMI 则一步一个事件。图 3 记的是图 1 这段谱的事件步数，这组数字是 1000 首整曲的平均 token 数。图 3 的 (a)–(d) 由配套程序调用 MidiTok 画出，字符串保持程序的原文。(e) 的 ABC 不是这个程序的输出。程序读入一个 MIDI 文件，写出 MIDI-like、REMI、TSD、复合词和 Octuple 的 token，代码在 https://github.com/rivaboluss/MIDItokenize-visualization 。
 
 ![音符级符号与序列步数](figures/fig2_layer1_tokens.svg)
 
